@@ -1,4 +1,4 @@
-# Python Fundamentals
+# Practice Machine Learning Using Python
 
 ## Prerequisites
 
